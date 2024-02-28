@@ -1,3 +1,3 @@
-# aws-lambda-go-poc
+# aws-go-poc
 
 AWS Lambda POC
